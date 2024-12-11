@@ -1,0 +1,22 @@
+div{
+    background-color: rgb(251, 239, 222);
+}
+h3{
+    padding: 10px 5px 5px 5px;
+}
+.span{
+    background-color: rgb(165, 172, 180);
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    margin: 10px;
+}
+.spanCenter{
+    display: block;
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;
+    height: 50px;
+    overflow: auto;
+    margin-left: 10px;
+}

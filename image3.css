@@ -1,0 +1,26 @@
+b a {
+color: #000;
+}
+p{
+    color: blue;
+}
+p a{
+    color: rgb(255, 162, 0);
+}
+div a{
+    color: rgb(255, 162, 0);
+    
+}
+nav a {
+    background-color: yellow;
+    color: rgb(41, 11, 11);
+}
+ul li b a{
+    color: red;
+}
+ul ul li{
+    color: blue;
+}
+ul ul li a{
+    color: rgb(255, 0, 0);
+}

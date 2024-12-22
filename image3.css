@@ -13,14 +13,19 @@ div a{
 }
 nav a {
     background-color: yellow;
-    color: rgb(41, 11, 11);
+    color: rgb(67, 12, 12);
 }
 ul li b a{
     color: red;
 }
-ul ul li{
+ul > ul > span > li{
     color: blue;
+    list-style: none;
 }
 ul ul li a{
     color: rgb(255, 0, 0);
+}
+ul ul li {
+    color: blue;
+
 }
